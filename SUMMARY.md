@@ -5,7 +5,7 @@
 ## Understandin Sapientia
 
 * [Article I — Name and Identity](understandin-sapientia/quickstart.md)
-* [Publish your docs](understandin-sapientia/publish-your-docs.md)
+* [Article II — Core Principles](understandin-sapientia/publish-your-docs.md)
 
 ## Basics
 
