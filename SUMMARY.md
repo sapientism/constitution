@@ -2,10 +2,10 @@
 
 * [The Constitution of Sapientia](README.md)
 
-## Getting Started
+## Understandin Sapientia
 
-* [Article I — Name and Identity](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
+* [Article I — Name and Identity](understandin-sapientia/quickstart.md)
+* [Publish your docs](understandin-sapientia/publish-your-docs.md)
 
 ## Basics
 
